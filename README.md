@@ -51,7 +51,6 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Feder
 ## 🌐 Contato
 
 - 📧 fabioladasilva240@gmail.com  
-- 📞 (19) 99448-2784  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fab%C3%ADola-da-silva-souza/)  
 - 🐱 [GitHub](https://github.com/)
 
