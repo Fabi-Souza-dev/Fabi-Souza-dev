@@ -8,7 +8,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Feder
 
 - **Técnico em Análise e Desenvolvimento de Sistemas**  
   Instituto Federal de São Paulo (IFSP) – Campus Capivari  
-  *Agosto 2024 – Dezembro 2027 (em andamento)*
+  *Agosto 2024 – Dezembro 2026 (em andamento)*
 
 ---
 
