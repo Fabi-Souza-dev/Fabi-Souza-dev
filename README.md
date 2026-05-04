@@ -1,6 +1,6 @@
 # 👩‍💻 Fabíola da Silva Souza
 
-Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo – Campus Capivari. Estou construindo minha carreira na área de tecnologia com foco em **desenvolvimento de software**, mas também tenho interesse em **análise de dados** e **design**. Tenho uma trajetória profissional versátil e gosto de unir criatividade, lógica e comunicação para resolver problemas.
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo – Campus Capivari. Estou construindo minha carreira na área de tecnologia com foco em **desenvolvimento de software**. Tenho uma trajetória profissional versátil e gosto de unir criatividade, lógica e comunicação para resolver problemas.
 
 ---
 
